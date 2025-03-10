@@ -10,7 +10,11 @@ class HomePage extends StatelessWidget {
         title: Text("Home Page"),
         centerTitle: true,
       ),
+      body: Column(
+        children: [
 
+        ],
+      ),
     );
   }
 }
