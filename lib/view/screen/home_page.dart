@@ -22,16 +22,7 @@ Text("data"),
 Text("data"),
 Text("data"),
 Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
-Text("data"),
+
 
 
         ],
