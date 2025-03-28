@@ -10,14 +10,7 @@ class HomePage extends StatelessWidget {
         title: Text("Home Page"),
         centerTitle: true,
       ),
-      body: Column(
-        children: [
-          Text("data"),Text("data"),Text("data"),Text("data"),Text("data"),
-          Text("data"),Text("data"),Text("data"),Text("data"),Text("data"),
-          Text("data"),Text("data"),Text("data"),Text("data"),Text("data"),
-          Text("data"),Text("data"),Text("data"),Text("data"),Text("data"),
-        ],
-      ),
+      body: Column(children: [Text("data")]),
     );
   }
 }
